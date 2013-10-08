@@ -6,5 +6,5 @@ __history
 *.drc
 *.map
 *.exe
-
+.DS_Store
 bin/*
